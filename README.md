@@ -1,16 +1,18 @@
-### Hi there 👋
+# [floomer 👨‍💻](https://www.linkedin.com)
 
-<!--
-**floomer/floomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Front End Developer
 
-Here are some ideas to get you started:
+ X-shaped specialist, posthumanist, technological singularity visionary.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interested in
+
+- Science & high-tech: physics ( quantum physics, astrophysics ), philosophy, physical & philosophical cosmology, biology, computer science & information technologies, artifical intelligence
+- Natural languages: Russian (native), English ( C1, on a road to C2 )
+- Video games: Minecraft, League of Legends, Wow
+- Activities: 
+
+### Summary
+
+Web developer experienced in front end developing. HTML5, CSS3, JavaScript ES6+, TypeScript, CSS-in-JS, React.js, UI component libraries ( mostly, Material-UI, Bootstrap ).
+
+Deeply involved in Software Architecture and Functional Programming, Computer Science, UI/UX design, experienced in working with UNIX-like operating systems and CI/CD. Thirsty for knowledge and able to grasp and master new concepts, technologies, and tools extremely quickly. Approaching project goals with enthusiasm and involvement, preferring to solve problems rather than consequences.
